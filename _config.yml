@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            HydeTest3
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            DeepAnalysisResearch
+tagline:          'Home for DAR'
+description:      'A site for Research and Blog shared from team'
+url:              https://snowaner-ustc.github.io/
 baseurl:          https://snowaner-ustc.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'DeepAnalysisResearch'
+  url:            
 
 paginate:         2
 
@@ -22,4 +22,4 @@ paginate:         2
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://snowaner-ustc.github.io/
