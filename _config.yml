@@ -17,7 +17,7 @@ author:
   url:            
 
 paginate:         2
-paginate_path:    "/blogs/page:num/"
+paginate_path:    "/blog/page:num/"
 
 # Custom vars
 version:          2.1.0
