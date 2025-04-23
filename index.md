@@ -4,9 +4,28 @@ title: About
 permalink: /index.html
 ---
 
-I am a researcher at OpenAI. 
+We are the team of Deep Analysis Research at Alibaba Cloud.
 
-I study agents.
+We study Interpreting Mechanism, Knowledge Injection, Multilingual, Agents.
+
+# Selected Blogs
+
+- **Computer-Using Agent (CUA)** <br>
+  OpenAI <br>
+  A universal agent/interface to interact with the digital world. <br>
+    [product](https://operator.chatgpt.com) |
+    [blogpost](https://openai.com/index/computer-using-agent/) |
+    [system card](https://cdn.openai.com/operator_system_card.pdf) |
+    [bibtex](http://cdn.openai.com/cua/cua2025.bib)
+
+
+
+- **Deep Research** <br>
+  OpenAI <br>
+  An agent that navigates and reasons over the Internet to research for you. <br>
+    [product](https://chatgpt.com) |
+    [blogpost](https://openai.com/index/introducing-deep-research/)
+  
 
 # Selected work
 
@@ -108,7 +127,7 @@ I study agents.
     [Quanta Magazine](https://www.quantamagazine.org/machines-learn-better-if-we-teach-them-the-basics-20230201/)
 
 
-# Online talks
+# Favorite talks
 - [Language Agents: From Next-Token Prediction to Digital Automation](https://www.youtube.com/watch?v=zwfE6J2BIR4)
 - [On Formulating and Evaluating Language Agents](https://www.youtube.com/watch?v=qmGu9okiICU) 
 - [从语言模型到语言智能体](https://www.bilibili.com/video/BV1ju4y1e7Em)
