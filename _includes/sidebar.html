@@ -27,7 +27,8 @@
       {% endfor %} -->
 
       
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="/blogs/">Blog</a>
+      <!-- 添加博客链接 -->
+      <a class="sidebar-nav-item{% if page.url == '/blog/' or page.url contains '/blog/page' %} active{% endif %}" href="{{ site.baseurl }}blog/">Blog</a>
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="/papers/">Paper</a>
 <!--       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
 <!--       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
