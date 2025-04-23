@@ -8,7 +8,7 @@ We are the team of Deep Analysis Research at Alibaba Cloud.
 
 We study LLM's mechanistic interpretability and agents.
 
-We are excited to expand our team and are currently seeking Research Interns to join us on our journey. For more details and to apply, please visit [https://careers.aliyun.com/campus/position-detail?lang=zh&positionId=9900008505].
+We are excited to expand our team and are currently seeking Research Interns to join us on our journey. For more details and to apply, please visit [Learn More](https://careers.aliyun.com/campus/position-detail?lang=zh&positionId=9900008505).
 
 # Selected Blogs
 
