@@ -11,7 +11,6 @@ We study LLM's mechanistic interpretability and agents.
 # Selected Blogs
 
 - **结构化** <br>
-  OpenAI <br>
   A talk on what is structurization, why structurization is important for humans and LLMs and how to do structurization. <br>
     [blogpost](_posts/2025-04-22-Structurization.md) |
 
