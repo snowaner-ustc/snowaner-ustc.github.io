@@ -14,7 +14,7 @@ We are excited to expand our team and are currently seeking Research Interns to 
 
 - **结构化** <br>
   A talk on what is structurization, why structurization is important for humans and LLMs and how to do structurization. <br>
-  <a href="{{ site.baseurl }}{% raw %}{% post_url 2025-04-22-Structurization %}{% endraw %}">blogpost</a>
+  <a href="{{ site.baseurl }}{% post_url 2025-04-22-Structurization %}">blogpost</a>
 
 
 # Selected work
