@@ -109,6 +109,15 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
+    top:    10rem;
+    left:   1rem;
+  }
+}
+
+@media (min-width: 48em) {
+  .sidebar-copyright-sticky {
+    position: absolute;
+    right:  1rem;
     bottom: 1rem;
     left:   1rem;
   }
