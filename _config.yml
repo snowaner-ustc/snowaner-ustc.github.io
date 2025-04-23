@@ -10,7 +10,7 @@ title:            DeepAnalysisResearch
 tagline:          'Home for DAR'
 description:      'A site for Research and Blog shared from team'
 url:              https://snowaner-ustc.github.io/
-baseurl:          https://snowaner-ustc.github.io/
+baseurl:          
 
 author:
   name:           'DeepAnalysisResearch'
