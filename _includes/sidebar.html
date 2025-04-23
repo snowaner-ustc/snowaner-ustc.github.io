@@ -29,7 +29,7 @@
       
       <!-- 添加博客链接 -->
       <a class="sidebar-nav-item{% if page.url == '/blog/' or page.url contains '/blog/page' %} active{% endif %}" href="{{ site.baseurl }}blog/">Blog</a>
-      <a class="sidebar-nav-item{% if page.url == '/papers/' %} active{% endif %}" href="/papers/">Paper</a>
+      <a class="sidebar-nav-item{% if page.url == '/papers/' %} active{% endif %}" href="/papers/">Paper {{page.url}}</a>
 <!--       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
 <!--       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
