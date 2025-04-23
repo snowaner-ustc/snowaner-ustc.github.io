@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Paper
-permalink: /papers.html
 ---
 
 [1] Interpreting and improving large language models in arithmetic calculation. ICML (oral),
