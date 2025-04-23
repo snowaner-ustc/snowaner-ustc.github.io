@@ -6,138 +6,58 @@ permalink: /index.html
 
 We are the team of Deep Analysis Research at Alibaba Cloud.
 
-We study Interpreting Mechanism, Knowledge Injection, Multilingual, Agents.
+We study LLM's mechanistic interpretability and agents.
 
 # Selected Blogs
 
-- **Computer-Using Agent (CUA)** <br>
+- **结构化** <br>
   OpenAI <br>
-  A universal agent/interface to interact with the digital world. <br>
-    [product](https://operator.chatgpt.com) |
-    [blogpost](https://openai.com/index/computer-using-agent/) |
-    [system card](https://cdn.openai.com/operator_system_card.pdf) |
-    [bibtex](http://cdn.openai.com/cua/cua2025.bib)
+  A talk on what is structurization, why structurization is important for humans and LLMs and how to do structurization. <br>
+    [blogpost](posts/2025-04-22-Structurization.md) |
 
-
-
-- **Deep Research** <br>
-  OpenAI <br>
-  An agent that navigates and reasons over the Internet to research for you. <br>
-    [product](https://chatgpt.com) |
-    [blogpost](https://openai.com/index/introducing-deep-research/)
-  
 
 # Selected work
 
-- **Computer-Using Agent (CUA)** <br>
-  OpenAI <br>
-  A universal agent/interface to interact with the digital world. <br>
-    [product](https://operator.chatgpt.com) |
-    [blogpost](https://openai.com/index/computer-using-agent/) |
-    [system card](https://cdn.openai.com/operator_system_card.pdf) |
-    [bibtex](http://cdn.openai.com/cua/cua2025.bib)
+- **Interpreting and Improving Large Language Models in Arithmetic Calculation** <br>
+  Wei Zhang, Chaoqun Wan, Yonggang Zhang, Yiu-ming Cheung, Xinmei Tian, Xu Shen, Jieping Ye <br>
+  ICML 2024 (Oral, top5%) <br>
+    [paper](https://arxiv.org/abs/2409.01659) |
 
+- **From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning** <br>
+    Wei Chen, Zhen Huang, Liang Xie, Binbin Lin, Houqiang Li, Le Lu, Xinmei Tian, Deng Cai, Yonggang Zhang, Wenxiao Wang, Xu Shen, Jieping Ye <br>
+    ICML 2024 <br>
+    [paper](https://arxiv.org/abs/2409.01658) |
+    [repo](https://github.com/deep-analysis-research/sycophancy-interpretability) |
 
-
-- **Deep Research** <br>
-  OpenAI <br>
-  An agent that navigates and reasons over the Internet to research for you. <br>
-    [product](https://chatgpt.com) |
-    [blogpost](https://openai.com/index/introducing-deep-research/) 
-
-  
-- **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** <br>
-  Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan <br>
-  ICLR 2025 <br>
-    [paper](https://arxiv.org/abs/2406.12045) |
-    [repo](https://github.com/sierra-research/tau-bench) |
-    [blog](https://sierra.ai/blog/benchmarking-ai-agents)
-
-- **Language Agents: From Next-Token Prediction to Digital Automation** <br>
-  Shunyu Yao <br>
-  PhD Thesis <br>
-    [paper](https://ysymyth.github.io/papers/Dissertation-finalized.pdf) |
-    [slides](https://ysymyth.github.io/papers/fpo.pdf) |
-    [talk](https://www.youtube.com/watch?v=zwfE6J2BIR4)
-
-- **SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models** <br>
-  John Yang\*, Carlos E. Jimenez\*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press <br>
+- **Enhancing Multiple Dimensions of Trustworthiness in LLMs via Sparse Activation Control** <br>
+  Yuxin Xiao, Wan Chaoqun, Yonggang Zhang, Wenxiao Wang, Binbin Lin, Xiaofei He, Xu Shen, Jieping Ye <br>
   NeurIPS 2024 <br>
-    [paper](https://swe-agent.com/paper.pdf) |
-    [repo](https://github.com/princeton-nlp/SWE-agent) |
-    [tweet](https://twitter.com/jyangballin/status/1775114444370051582) |
-    [project](http://www.swe-agent.com)
+    [paper](https://arxiv.org/abs/2411.02461) |
+
+- **Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs** <br>
+  Rui Dai, Sile Hu, Xu Shen, Yonggang Zhang, Xinmei Tian, Jieping Ye <br>
+  ICLR 2025 <br>
+    [paper](https://arxiv.org/abs/2504.10902) |
+    [repo](https://github.com/deep-analysis-research/SLTA) |
   
-
-- **SWE-bench: Can Language Models Resolve Real-World Github Issues?** <br>
-  Carlos E. Jimenez\*, John Yang\*, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan <br>
-  ICLR 2024 (Oral) <br>
-    [paper](https://arxiv.org/abs/2310.06770) |
-    [repo](https://github.com/princeton-nlp/SWE-bench) |
-    [tweet](https://twitter.com/jyangballin/status/1711822353473437953) |
-    [project](http://www.swebench.com)
-
-- **Cognitive Architectures for Language Agents** <br>
-    Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
-    TMLR 2024 <br>
-    [paper](https://arxiv.org/abs/2309.02427) |
-    [repo](https://github.com/ysymyth/awesome-language-agents) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1699396834983362690)
+- **Knowledge Graph Finetuning Enhances Knowledge Manipulation in Large Language Models** <br>
+  Hanzhu Chen, Xu Shen, Jie Wang, Zehao Wang, Qitan Lv, Junjie He, Rong Wu, Feng Wu, Jieping Ye <br>
+  ICLR 2025 <br>
+    [paper](https://openreview.net/forum?id=oMFOKjwaRS) |
 
 
-- **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** <br>
-    John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao <br>
-    NeurIPS 2023 Datasets and Benchmarks Track <br>
-    [paper](https://arxiv.org/abs/2306.14898) |
-    [repo](https://github.com/princeton-nlp/intercode) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066) |
-    [project](https://intercode-benchmark.github.io)
-  
-- **Reflexion: Language Agents with Verbal Reinforcement Learning** <br>
-    Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao <br>
-    NeurIPS 2023 <br>
-    [paper](https://arxiv.org/abs/2303.11366) |
-    [repo](https://github.com/noahshinn024/reflexion) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1661875632387641345)
+- **Interpretable Composition Attribution Enhancement for Visio-linguistic Compositional Understanding** <br>
+  Wei Li, Zhen Huang, Xinmei Tian, Le Lu, Houqiang Li, Xu Shen, Jieping Ye <br>
+  EMNLP 2024 (Main) <br>
+    [paper](hhttps://aclanthology.org/2024.emnlp-main.810.pdf) |
 
-- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** <br>
-    Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan <br>
-    NeurIPS 2023 (Oral) <br>
-    [paper](https://arxiv.org/abs/2305.10601) |
-    [repo](https://github.com/ysymyth/tree-of-thought-llm) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1659357547474681857)
-    
-- **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
-    Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
-    ICLR 2023 (Oral, top 5%) <br>
-    [paper](https://arxiv.org/abs/2210.03629) |
-    [repo](https://github.com/ysymyth/ReAct) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1579475607402217472) |
-    [project](https://react-lm.github.io) |
-    [Google AI blogpost](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
-    
-- **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** <br>
-    Shunyu Yao\*, Howard Chen\*, John Yang, Karthik Narasimhan <br>
-    NeurIPS 2022 <br>
-    [paper](https://arxiv.org/abs/2207.01206) | 
-    [repo](https://github.com/princeton-nlp/WebShop) | 
-    [tweet](https://twitter.com/ShunyuYao12/status/1546220013186596864) |
-    [project](https://webshop-pnlp.github.io) | 
-    [demo](https://webshop-pnlp.github.io/#demo) |
-    [Quanta Magazine](https://www.quantamagazine.org/machines-learn-better-if-we-teach-them-the-basics-20230201/)
-
+- **SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs** <br>
+  Hanzhu Chen, Xu Shen, Qitan Lv, Jie Wang, Xiaoqi Ni, Jieping Ye <br>
+  ACL 2024 (Main) <br>
+    [paper](https://arxiv.org/abs/2410.02811) |
 
 # Favorite talks
-- [Language Agents: From Next-Token Prediction to Digital Automation](https://www.youtube.com/watch?v=zwfE6J2BIR4)
-- [On Formulating and Evaluating Language Agents](https://www.youtube.com/watch?v=qmGu9okiICU) 
-- [从语言模型到语言智能体](https://www.bilibili.com/video/BV1ju4y1e7Em)
-- [Re-thinking Reinforcement Learning in the Era of Large Language Models](https://docs.google.com/presentation/d/1mlhFBRdzN3aXQ1kDCwxGFfnQdjnHr7Ou9DAhLk186Y0/edit?usp=sharing&resourcekey=0-MVtkY5wr6GD-Dm80Cvsruw)
+- [An Observation on Generalization](https://www.youtube.com/watch?v=AKMuA_TVz3A)
 
-
-# Recent readings
-* The Double Helix (James Watson)
-* Lectures on General Relativity (David Tong)
-* What Babies Know (Elizabeth Spelke)
-* The Art of Doing Science and Engineering (Richard Hamming)
 
 (last updated: Apr 2025)
